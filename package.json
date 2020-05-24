@@ -1,0 +1,11 @@
+{
+  "name": "lambda-edge-auth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:crespowang/lambda-edge-auth.git",
+  "author": "Crespo Wang <crespo.wang@inquisitive.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
